@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @muditkalra
 - 👀 I’m interested in MERN Stack (MongoDB, ExpressJs, ReactJs, NodeJs)
 - 🌱 I’m currently learning NextJs
-- 💞️ I’m looking to collaborate on MERN
+- 💞️ I’m looking to collaborate on MERN Projects
 - 📫 You can reach me at **muditkalra267@gmail.com**
 
 <!---
