@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @muditkalra
-- 👀 I’m interested in MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS)
-- 🌱 I’m currently learning **System design**
-- 🤝 I’m looking to collaborate on MERN Projects
+- 👀 I’m currently working with MERN | PERN Stack
+- 🌱 I’m currently learning **System design** & **GO**
+- 🤝 I’m looking to collaborate on interesting projects irrespective of stack
 - 📫 You can reach me at **muditkalra267@gmail.com**
 
 <!---
