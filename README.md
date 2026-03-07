@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @muditkalra
 - 👀 I’m currently working with MERN | PERN Stack
 - 🌱 I’m currently learning **System design** & **Devops** & **Agentic-AI**
 - 🤝 I’m looking to collaborate on interesting projects irrespective of stack
